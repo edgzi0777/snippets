@@ -5,3 +5,8 @@
 Useful code snippets collected over time
 <!-- commit 20260928233106 -->
 <!-- commit 20260929000554 -->
+## FAQ
+
+**Q: Where does the config come from?**
+
+A: `config_loader.load_config()` merges JSON over defaults.
